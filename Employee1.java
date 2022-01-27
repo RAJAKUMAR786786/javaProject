@@ -5,6 +5,7 @@ public void empName(){
 System.out.println("employee name is RAJA");	
 }
 	public static void main(String[] args) {
+		System.out.println("hii manoj");
 		// TODO Auto-generated method stub
 Employee1 emp1=new Employee1();
 emp1.empName();
