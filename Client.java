@@ -2,6 +2,7 @@ package emp.orga;
 
 public class Client {
 	public void ClientName(){
+		System.out.println("a");
 		System.out.println("client name is sekar");	
 		}
 		
